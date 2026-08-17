@@ -1,4 +1,4 @@
-# Language Tokenization Experiment
+# Tokens Aren't Characters: A Cross-Lingual LLM Efficiency Study
 
 ## Can another language express the same meaning with fewer LLM tokens?
 
