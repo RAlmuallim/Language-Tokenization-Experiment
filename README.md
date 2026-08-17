@@ -20,7 +20,7 @@ tokenizer.
 
 ## Research question
 
-> When the meaning is held approximately constant, which language uses the
+> When the meaning is held approximately constant, which natural language uses the
 > fewest tokens?
 
 Some believe that Chinese would require fewer tokens because of
