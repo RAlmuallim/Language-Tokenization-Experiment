@@ -23,10 +23,11 @@ tokenizer.
 > When the meaning is held approximately constant, which language uses the
 > fewest tokens?
 
-The initial hypothesis was that Chinese would require fewer tokens because of
-its compact writing system. For this corpus, neither tokenizer supports that
-hypothesis: English required the fewest tokens in both cases, while Chinese
-used about 89% more tokens under GPT and about 85% more under Claude.
+Some believe that Chinese would require fewer tokens because of
+its compact writing system. A careful experiment using two widely used tokenizers
+does not support this hypothesis. Across the languages tested, English required 
+the fewest tokens under both tokenizers, while Chinese used about 89% more tokens 
+under GPT and about 85% more under Claude.
 
 ## Dataset
 
