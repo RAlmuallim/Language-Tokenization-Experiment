@@ -1,6 +1,6 @@
-# Tokens Aren't Characters: A Cross-Lingual LLM Efficiency Study
+# Paying by the Token: Does Prompting in Another Language Save You Money?
 
-## Can another language express the same meaning with fewer LLM tokens?
+## A Cross-Lingual LLM Tokenization Study
 
 This experiment began with a conversation about reducing token usage when
 working with large language models such as ChatGPT and Claude. A friend
